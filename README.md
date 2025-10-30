@@ -1,2 +1,3 @@
-# app-dev
-My first repository
+# Descendants of the sun
+
+Yoo Si-jin is a brave and charming captain in the army. Kang Mo-yeon is a smart and strong-hearted doctor. They meet by chance and feel a spark, but their jobs keep pulling them in different directions. He risks his life in missions, while she saves lives in the hospital. Their paths cross again when they’re both sent to a faraway country called Urk. There, they face earthquakes, sickness, and even gunfire. Through all the chaos, their feelings grow stronger but so do the challenges. Si-jin has to make tough choices as a soldier, and Mo-yeon struggles with her role as a doctor.
